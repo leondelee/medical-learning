@@ -1,5 +1,6 @@
-# How to start (On Ubuntu)
-## Anaconda Users
+# Assignment 2 Digital Number Recognition
+## How to start (On Ubuntu)
+### Anaconda Users
 In the terminal, type the following commands line by line
 
     conda activate base
@@ -10,7 +11,7 @@ In the terminal, type the following commands line by line
 
 Open the file *assignment2.ipynb* and complete the codes.
 
-## Others
+### Others
 In the terminal, type the following commands line by line
 
     git clone https://github.com/leondelee/medical-learning
@@ -19,5 +20,9 @@ In the terminal, type the following commands line by line
 
 Complete the codes in *assignment2.py*.
 
-## How to submit
+### How to submit
 Send an email caontaining your resulting codes with name **your-name_assignment2.ipynb** or **your-name_assignment2.py** to [medical_speit_ie@yeah.net](medical_speit_ie@yeah.net) before **22:00 Nov. 26**.
+
+# Assignment 3 Cat & Dog
+# Data
+You have to download the data [here](https://jbox.sjtu.edu.cn/l/XH2shq).
