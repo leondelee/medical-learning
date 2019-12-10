@@ -26,7 +26,7 @@ def demo():
     print('Bye~')
     return
 
-if _name__ == '__main__':
+if __name__ == '__main__':
 	demo()
 	# load data
 	x_train, x_test, y_train, y_test = load_minist()
